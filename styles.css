@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+img {
+    float: left;
+    max-width: 50%;
+    height:auto;
+}
+
+ol {
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}
